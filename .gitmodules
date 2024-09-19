@@ -1,0 +1,3 @@
+[submodule "nRF-Sniffer-for-802.15.4"]
+	path = nRF-Sniffer-for-802.15.4
+	url = https://github.com/NordicSemiconductor/nRF-Sniffer-for-802.15.4

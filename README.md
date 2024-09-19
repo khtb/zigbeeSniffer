@@ -1,21 +1,17 @@
-# ProjectName
+# zigbee Sniffer
 
 ## Overview
-The `ProjectName` class is part of a larger project aimed at [briefly describe the project's goal or purpose]. This class is responsible for [briefly describe the class's responsibility or functionality].
-
+zigbee sniffer project using Nordic nrf802154 USB dongle.
 ## Key Features
-- **Feature 1:** [Description of the first key feature]
-- **Feature 2:** [Description of the second key feature]
-- **Feature 3:** [Description of the third key feature]
+Nordic documentaion:
+- https://infocenter.nordicsemi.com/index.jsp?topic=%2Fsdk_tz_v4.1.0%2Fnrf802154_sniffer.html
+- git submodule https://github.com/NordicSemiconductor/nRF-Sniffer-for-802.15.4
 
-## Usage
-[Provide a brief example or description of how to use the class]
-
-## Dependencies
-[List any external libraries or dependencies required by this class]
-
-## Additional Notes
-[Any additional notes or important information]
+## installation and enviroment
+Ubuntu 20.04
+Jlink version 
+minicom
+wireshark
 
 ## Version
 1.0
