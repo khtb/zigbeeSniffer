@@ -16,9 +16,12 @@ wireshark
 ## Version
 1.0
 
-## Date
-[Date of creation or last modification]
+## steps
+git clone this repo
+` git submodule init`
+` git submodule updadte`
+kv
 
 ## Author
-[Author's name]
-```
+khtb
+20.9.2024
