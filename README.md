@@ -31,3 +31,9 @@ test communication with minicom
 ## Author
 khtb
 20.9.2024
+
+
+
+in wire shark to sniff ikea remote use channel 25
+now to check how the esp32 can repeat the same command 
+
